@@ -85,5 +85,6 @@ Usamos ele para fazer uma demonstração de requisições assíncronas.
 
 ---
 
-Rode `npm run server` para rodar o json server e o `npm start` para rodar a aplicação
-Aplicação do instrutor no link (https://github.com/alura-cursos/event-tracker)
+Rode `npm run server` para rodar o json server e o `npm start` para rodar a aplicação.
+
+Aplicação do instrutor encontra-se no [github de viniciosneves](https://github.com/alura-cursos/event-tracker)
